@@ -1,0 +1,25 @@
+<link href="assignment1+2.css" rel="stylesheet">
+div.a {
+    text-align: center;
+    margin-left:50%;
+  }
+  
+  div.b {
+    text-align: left;
+  }
+  
+  div.c {
+    text-align: right;
+  } 
+  
+  div.d {
+    text-align: justify;
+  } 
+  
+  .body{
+    margin-left: 300px;
+    margin-right: 300px; 
+
+  }
+
+ 
